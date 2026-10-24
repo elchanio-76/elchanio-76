@@ -1,8 +1,9 @@
 ## Hi there, I'm Lefteris Chaniotakis 👋
 
 - I've been coding since I was 10 years old. 
-- I'm now working iprimarily n sales-related roles, but I'm still excited to code and build apps and tools I can use myself.
+- I'm now working primarily n sales-related roles, but I'm still excited to code and build apps and tools I can use myself.
 - Nowadays I primarily code in Python and interested in AI, ML and Deep Learning projects.
+- Go and Rust are my side projects, and I also use JS/TS when I have to (although AI is now doing most of the JS/TS work for me). 
 - I try to bring in a product-oriented approach to my projects, rather than focusing on specific tools and technologies.
 - I've also worked in C/C++ and Java, and I've done quite a bit of system and low-level programming with embedded systems (C/Assembly for various platforms). I'm no longer in that space however.
 
